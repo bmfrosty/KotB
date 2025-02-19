@@ -8,13 +8,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: docker://pandoc/core:3.5
+      - uses: maxheld83/pandoc@v2
         with:
-          args: "--help" # gets appended to pandoc command
+          args: "--help"
 
       - run: find .
 
-      - uses: docker://pandoc/latex:3.5
+      - uses: maxheld83/pandoc@v2
         with:
           args: >-  # allows you to break string into multiple lines
             --output=KotB.pdf

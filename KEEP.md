@@ -1,5 +1,4 @@
 ## The Keep
-\twocolumn
 
 #### Background
 
@@ -12,6 +11,7 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
 
 \pagebreak
 
+\twocolumn
 #### Areas of the Keep
 
 1. Main Gate:
@@ -40,6 +40,7 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * The forth floor quarters 12 men-at-arms.
 
 \pagebreak
+\pagebreak
 
 7. Private Apartments:
     * Special quarters for well-to-do families, rich merchants, guild masters, and the like.
@@ -63,6 +64,7 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * Personal wealth can be stored here for free if it is at least 1 month, otherwise, there is a 10% fee.
 
 \pagebreak
+\pagebreak
 
 12. Watch Tower:
     * 12 men-at-arms.
@@ -84,6 +86,7 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * The Guild Master is very influential an his favor or dislike will be reflected in th treatment of persons by fortress personnel.
 
 \pagebreak
+\pagebreak
 
 17. Chapel:
     * The spiritual center of the Keep.
@@ -104,6 +107,7 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * Troops dill here.
     * 6-12 soldiers are always present in weapons practice.
 
+\pagebreak
 \pagebreak
 
 22. Cavalry Stables:

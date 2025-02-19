@@ -96,6 +96,9 @@ managed, of course).
     * When members of any guild travel to the area, they are offered the hospitality of this two-story building.
     * Any trader who passes through must pay guild dues of 5% of the value of their merchandise. In return, they gets the protection of the Guild House.
     * The Guild Master is very influential an his favor or dislike will be reflected in th treatment of persons by fortress personnel.
+
+\pagebreak
+
 17. Chapel:
     * The spiritual center of the Keep.
     * The Curate runs the chapel and is the most influential person in the Keep except for the Castellan. The Curate will, for the right offering, provide healing services. If questioned closely by a friend, the Curate will reveal his distrust of the Priest (area 7b). The Acolytes,however, think highly of the Priest.
@@ -114,6 +117,9 @@ managed, of course).
     * Entire area is grass-covered.
     * Troops dill here.
     * 6-12 soldiers are always present in weapons practice.
+
+\pagebreak
+
 22. Cavalry Stables:
     * 30 war horses are stabled here.
 23. Great Tower:

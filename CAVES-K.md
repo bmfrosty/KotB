@@ -17,6 +17,9 @@
     * 4 Acolytes - strikes: 1, to-hit: 3; act as conjurers with a spell circle of Necromancer; magic defense 2D6.
     * There are various books and scrolls of an evil nature.
     * The acolytes wear red robes with black cowls and have a distinctive amulet.
+
+\pagebreak
+
 55. Chapel of Evil Chaos:
     * The chapel is made of red stone walls with a floor of mosaic checkerboard of black and red.
     * There is a huge tapestry on the south wall.
@@ -36,6 +39,9 @@
     * There are 2 files of undead: 20 skeleton and 20 zombies.
     * Upon striking the bell in area 58, they will issue forth into the temple (area 58).
     * If players enter the hall, the undead will attack unless proper garments and the amulet are worn.
+
+\pagebreak
+
 58. Temple of Evil Chaos:
     * Huge arched ceiling. Floor is polished black stone. Walls adorned with tapestries.
     * A great bell of black iron stands near entry.
@@ -60,6 +66,9 @@
 61. Torture Chamber:
     * Various implements of torture here.
     * Torturer - Strikes: 4, To-Hit: 4; 2 attacks (axe), Boon to melee and strength.
+
+\pagebreak
+
 62. The Crypt:
     * Door is bolted shut.
     * Several coffins and large sarcopha
@@ -75,4 +84,5 @@
     * The door is locked and barred. A window is set in the door.
     * Several skeletons are chained to the wall.
     * From a distance, there appears to be a maiden chained to the wall, but this is actually a medusa. The medusa will try and turn some of the party to stone, then offer to use a potion of stone to flesh revive them if only she were to be released (which she does indeed have). If freed, however, she will try and “stone” her rescuers.
+
 \pagebreak

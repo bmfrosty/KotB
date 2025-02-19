@@ -11,7 +11,6 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
 
 \pagebreak
 
-\usepackage{pgfpages, multicol}
 #### Areas of the Keep
 
 1. Main Gate:

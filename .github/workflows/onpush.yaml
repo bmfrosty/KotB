@@ -13,8 +13,6 @@ jobs:
 
       - run: sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
 
-      - run: tlmgr install tools
-
       - name: Get Pandoc Version
         run: pandoc --version
 

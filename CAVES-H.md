@@ -26,3 +26,4 @@
     * The iron door is secured by a bar, chain, and heavy padlock.
     * Inside are the following slaves: 3 hobgoblins, 2 gnolls, 1 (rebel) bugbear, and 1 huge human,
     * The human is a fighter: Strikes 4, To-Hit 4. He is prone to fits of berserk fury an will occasionally strike a friend instead ofa foe (50% chance).
+\pagebreak

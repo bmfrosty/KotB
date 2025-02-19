@@ -17,3 +17,4 @@
 34. Owlbear’s Den:
     * The owlbear sleeps in the southern part of the den.
     * If searching the corpses in the room, on a roll of 3+, a Tellex’s Turning (see Magic Items below) scroll can be found.
+\pagebreak

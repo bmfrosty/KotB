@@ -25,3 +25,4 @@
     * Goblins constantly bring in loot from raids.
     * There is a secret door to Area F that hobgoblins use to steal the best foodstuff
     * If the players stay in the room for more than 1 turn, roll 1D6. On a roll of 3+, 4 hobgoblins will enter through the secret door.
+\pagebreak

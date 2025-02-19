@@ -20,3 +20,4 @@
 5. Kobold Chieftain Room:
     * There is 1 kobold chieftain (with key to area 3) and 5 regular kobolds.
     * There is 50 gp hidden in the room.
+\pagebreak

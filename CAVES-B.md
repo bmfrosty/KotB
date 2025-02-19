@@ -19,3 +19,4 @@
     * 2 orcs also present.
     * If in danger, leader will get behind a tapestry and open secret door and ask rival tribe for help.
     * There are gems and treasure worth 1000gp in Area t. There is also a hidden niche (roll 4+ to find) with a healing potion an a scroll of Frakvat’s Fire Elemental’s Call.
+\pagebreak

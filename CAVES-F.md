@@ -40,3 +40,4 @@
 31. Guard Room:
     * 4 hobgoblins.
     * They are alert to danger and will pass word to areas 29, 30, and 27 as required.
+\pagebreak

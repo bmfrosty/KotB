@@ -12,3 +12,4 @@
     * Minotaur present and immediately moves to attack.
     * There is a secret door (which is just a slab of stone) to area 36 offering a route of escape. To find the door, players must roll a 6, and it takes no less that 3 players to move the stone hiding the entrance.
     * Behind the slab, there is a locked chest trapped with a poison needle. Inside is 2000 gp, a greater healing potion (heals 2 strikes of damage), and a suit of Enchanter Armor.
+\pagebreak

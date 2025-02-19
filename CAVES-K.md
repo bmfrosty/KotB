@@ -75,3 +75,4 @@
     * The door is locked and barred. A window is set in the door.
     * Several skeletons are chained to the wall.
     * From a distance, there appears to be a maiden chained to the wall, but this is actually a medusa. The medusa will try and turn some of the party to stone, then offer to use a potion of stone to flesh revive them if only she were to be released (which she does indeed have). If freed, however, she will try and “stone” her rescuers.
+\pagebreak

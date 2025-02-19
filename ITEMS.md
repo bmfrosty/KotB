@@ -6,3 +6,4 @@
     * It can be commanded to tie itself securely and can hold up to 3,000 pounds.
 * Tellek’s Turning - all undead creatures within near range must fle
 * Varnesh’s Grip - one target within near range becomes paralyzed for 10 turns.
+\pagebreak

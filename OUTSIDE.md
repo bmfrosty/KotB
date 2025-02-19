@@ -33,3 +33,4 @@
     * Boon on stealth. 
     * He also has a “pet” Mountain Lion. 
     * Hidden in his home is a Amulet of the Orbus.
+\pagebreak

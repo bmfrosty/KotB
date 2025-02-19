@@ -22,6 +22,7 @@ jobs:
       - name: compile with pandoc
         run: |
           pandoc --verbose --output=KotB.pdf \
+          CONFIG.md \
           KEEP.md \
           OUTSIDE.md \
           CAVES-A.md \

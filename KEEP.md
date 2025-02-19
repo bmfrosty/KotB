@@ -1,35 +1,15 @@
----
-title: "Keep on the Borderlands Table Guide"
-author: Various Authors
-geometry: margin=1cm
-output: pdf_document
----
+## The Keep
 
-### The Keep
+\begin{multicols}{2}
 
 #### Background
 
-The Realm of mankind is narrow and constricted. Always the forces of Chaos press upon its
-borders, seeking to en- slave its populace, rape its riches, and steal its treasures. If it were
-not for a stout few, many in the Realm would indeed fall prey to the evil which surrounds
-them. Yet, there are always certain exceptional and brave members of humanity, as well as
-similar individuals among its allies - dwarves, elves, and halflings - who rise above th
-common level and join battle to stave off the darkness which would other- wise overwhel
-the land. Bold adventurers from the Realm set off for the Borderlands to seek their fortune. I
-is these ad- venturers who, provided they survive the challenge, carry the battle to the
+The Realm of mankind is narrow and constricted. Always the forces of Chaos press upon its borders, seeking to enslave its populace, rape its riches, and steal its treasures. If it were not for a stout few, many in the Realm would indeed fall prey to the evil which surrounds them. Yet, there are always certain exceptional and brave members of humanity, as well as similar individuals among its allies - dwarves, elves, and halflings - who rise above the common level and join battle to stave off the darkness which would other- wise overwhelm the land. Bold adventurers from the Realm set off for the Borderlands to seek their fortune. It is these adventurers who, provided they survive the challenge, carry the battle to the
 enemy.
 
 #### RR Notes About the Keep
-Entrance to the Inner Bailey can be gained if the adventurers perform a heroic act in behalf
-of the Keep, if they bring back an exceptional trophy or valuable prisoners, or if they
-contribute a valuable magic item or 1,000 or more gold pieces to the place. They will be
-invited to a feast and revel, and then closely watched and carefully questioned. If the
-Castellan’ likes the looks of the group, and his assistants agree, he will ask them to perform
-a special mission (suitable to their ability, but difficult - use the area map or the Caves
-Chaos to find a suitable goal). On the other hand, if they are rude or behave badly, he wil
-simply retire early, ending the revel, and they will never be aided or invited back. If they try to
-steal or are threatening, the group will be attacked and killed immediately (if this can be
-managed, of course).
+
+Entrance to the Inner Bailey can be gained if the adventurers perform a heroic act in behalf of the Keep, if they bring back an exceptional trophy or valuable prisoners, or if they contribute a valuable magic item or 1,000 or more gold pieces to the place. They will be invited to a feast and revel, and then closely watched and carefully questioned. If the Castellan’ likes the looks of the group, and his assistants agree, he will ask them to perform a special mission (suitable to their ability, but difficult - use the area map or the Caves Chaos to find a suitable goal). On the other hand, if they are rude or behave badly, he will simply retire early, ending the revel, and they will never be aided or invited back. If they try to steal or are threatening, the group will be attacked and killed immediately (if this can be managed, of course).
 
 \pagebreak
 
@@ -147,5 +127,6 @@ managed, of course).
     * The private room of the keep’s commander.
     * Lavishly furnished.
     * The Castellan - Strikes: 5, To-Hit 4; crits on 5+; has 2 potions of healing on him.
+\end{multicols}
 
 \pagebreak

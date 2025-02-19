@@ -11,7 +11,7 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
 
 \pagebreak
 
-\twocolumn
+\usepackage{pgfpages, multicol}
 #### Areas of the Keep
 
 1. Main Gate:
@@ -130,7 +130,5 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * The private room of the keep’s commander.
     * Lavishly furnished.
     * The Castellan - Strikes: 5, To-Hit 4; crits on 5+; has 2 potions of healing on him.
-
-\onecolumn
 
 \pagebreak

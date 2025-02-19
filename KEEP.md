@@ -1,3 +1,10 @@
+---
+title: "Keep on the Borderlands Table Guide"
+author: Various Authors
+geometry: margin=1cm
+output: pdf_document
+---
+
 ### The Keep
 
 #### Background

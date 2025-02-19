@@ -1,4 +1,4 @@
-name: Advanced Usage
+name: Compile PDF
 
 on: push
 
@@ -11,7 +11,7 @@ jobs:
       - name: Install pandoc
         uses: pandoc/actions/setup@v1
 
-      - run: sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra texlive-latex-full
+      - run: sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra texlive-latex-*
 
       - name: Get Pandoc Version
         run: pandoc --version

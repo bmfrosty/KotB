@@ -12,13 +12,14 @@ jobs:
         with:
           args: "--help" # gets appended to pandoc command
 
+      - run: find .
+
       - uses: docker://pandoc/latex:3.5
         with:
           args: >-  # allows you to break string into multiple lines
             --output=KotB.pdf
             KEEP.md
             OUTSIDE.md
-            # RUMORS.md
             CAVES-A.md
             CAVES-B.md
             CAVES-C.md
@@ -31,7 +32,10 @@ jobs:
             CAVES-J.md
             CAVES-K.md
             ITEMS.md
+            # RUMORS.md
           
+      - run: find .
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1

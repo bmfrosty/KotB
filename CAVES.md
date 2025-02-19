@@ -1,4 +1,4 @@
-The Caves of Chaos
+### The Caves of Chaos
 
 #### A. Kobold Lair
 * There are 8 kobolds hiding in the trees near the entrance that will attempt to ambush players.

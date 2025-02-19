@@ -1,4 +1,4 @@
-Magic Items
+### Magic Items
 
 * Friar Ulthrid’s Holy Light (scroll) - a 3 foot radius circle of protection from all attacks from undead creatures. Effect lasts for 1 scen
 * Potion of Poison - the poison can be applied to weapons, and it a hit is achieved, the target is poisoned.

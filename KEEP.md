@@ -1,4 +1,6 @@
-# Background
+### The Keep
+
+#### Background
 
 The Realm of mankind is narrow and constricted. Always the forces of Chaos press upon its
 borders, seeking to en- slave its populace, rape its riches, and steal its treasures. If it were
@@ -10,7 +12,7 @@ the land. Bold adventurers from the Realm set off for the Borderlands to seek th
 is these ad- venturers who, provided they survive the challenge, carry the battle to the
 enemy.
 
-# RR Notes About the Keep
+#### RR Notes About the Keep
 Entrance to the Inner Bailey can be gained if the adventurers perform a heroic act in behalf
 of the Keep, if they bring back an exceptional trophy or valuable prisoners, or if they
 contribute a valuable magic item or 1,000 or more gold pieces to the place. They will be
@@ -22,7 +24,7 @@ simply retire early, ending the revel, and they will never be aided or invited b
 steal or are threatening, the group will be attacked and killed immediately (if this can be
 managed, of course).
 
-Areas of the Keep
+#### Areas of the Keep
 
 1. Main Gate:
     * Approaching the keep, there are corpses hanging from nooses with signs stating “This is what happens to thieves, murderers, and rapists.”
@@ -91,7 +93,6 @@ Areas of the Keep
     * The spiritual center of the Keep.
     * The Curate runs the chapel and is the most influential person in the Keep except for the Castellan. The Curate will, for the right offering, provide healing services. If questioned closely by a friend, the Curate will reveal his distrust of the Priest (area 7b). The Acolytes,however, think highly of the Priest.
     * 3 Acolytes are present at most times.
-
 18. Inner Gatehouse:
     * This stone structure is like a small fort.
     * The gates are heavy and double bound with iron and spikes.
@@ -122,7 +123,6 @@ Areas of the Keep
     * The towers rise about the roof of the fortress.
     * Upper stories have 12 men-at-arms.
     * The lower floors hold the Castilian’s assistants: a scribe and an advisor.
-
 27. Castellan’s Chamber:
     * The private room of the keep’s commander.
     * Lavishly furnished.

@@ -8,16 +8,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-
-      - run: find .
-
       - name: Install pandoc
         uses: pandoc/actions/setup@v1
 
-      - name: Run pandoc
+      - run: sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+
+      - name: Get Pandoc Version
         run: pandoc --version
 
-      - run: sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+      - name: Get Pandoc Help
+        run: pandoc --help
 
       - name: compile with pandoc
         run: |
@@ -36,8 +36,6 @@ jobs:
           CAVES-J.md \
           CAVES-K.md \
           ITEMS.md
-          
-      - run: find .
 
       - name: 'Upload Artifact'
         uses: actions/upload-artifact@v4

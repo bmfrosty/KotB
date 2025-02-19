@@ -1,0 +1,38 @@
+name: Advanced Usage
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: docker://pandoc/core:3.5
+        with:
+          args: "--help" # gets appended to pandoc command
+
+      - uses: docker://pandoc/latex:3.5
+        with:
+          args: >-  # allows you to break string into multiple lines
+            --output=output/KotB.pdf
+            KEEP.md
+            OUTSIDE.md
+            # RUMORS.md
+            CAVES-A.md
+            CAVES-B.md
+            CAVES-C.md
+            CAVES-D.md
+            CAVES-E.md
+            CAVES-F.md
+            CAVES-G.md
+            CAVES-H.md
+            CAVES-I.md
+            CAVES-J.md
+            CAVES-K.md
+            ITEMS.md
+          
+      - uses: actions/upload-artifact@v4
+        with:
+          name: output
+          path: output

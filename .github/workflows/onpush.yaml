@@ -17,11 +17,7 @@ jobs:
       - name: Run pandoc
         run: pandoc --version
 
-      - run: |
-          sudo apt-get install texlive-latex-base
-          sudo apt-get install texlive-fonts-recommended
-          sudo apt-get install texlive-fonts-extra
-          sudo apt-get install texlive-latex-extra
+      - run: sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
 
       - name: compile with pandoc
         run: |
@@ -42,6 +38,12 @@ jobs:
           ITEMS.md
           
       - run: find .
+
+      - name: 'Upload Artifact'
+        uses: actions/upload-artifact@v4
+        with:
+          name: KotB.pdf
+          path: KotB.pdf
 
       - name: Create Release
         id: create_release

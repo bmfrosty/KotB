@@ -3,7 +3,8 @@
 #### A. Kobold Lair
 
 * There are 8 kobolds hiding in the trees near the entrance that will attempt to ambush players.
-* Just inside the entrance, there is a pit trap (lead players fall into pit with a roll of 4+ unless they are carefully probing ahead; if careful, lead players fall in with a roll of 6). 
+* Just inside the entrance, there is a pit trap
+    * lead players fall into pit with a roll of 4+ unless they are carefully probing ahead; if careful, lead players fall in with a roll of 6. 
 * Falling into the pit causes 1 strike of damage and a lid closes on the pit trapping the players.
 * The noise attracts creatures from areas 1 and 2.
 1. Guard Room:
@@ -46,7 +47,10 @@
 
 #### C. Orc Lair:
 
-    * A series of trip wires are used to warn of intruders. If wires are tripped, a heavy weighted net falls and entraps the players for 1-3 turns. Need roll of 6 to notice if searching for traps. Meanwhile, the orcs from area 14 will be there in 1 round.
+* A series of trip wires are used to warn of intruders. 
+* If wires are tripped, a heavy weighted net falls and entraps the players for 1-3 turns. 
+* Need roll of 6 to notice if searching for traps. 
+* Meanwhile, the orcs from area 14 will be there in 1 round.
 13. Forgotten Room:
     * Only the 2 orc leaders know about this secret room. They meet here occasionally to discuss ventures and problems.
     * There are several weapons and shields in this room.

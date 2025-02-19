@@ -8,31 +8,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: maxheld83/pandoc@v2
-        with:
-          args: "--help"
 
       - run: find .
 
-      - uses: maxheld83/pandoc@v2
-        with:
-          args: >-  # allows you to break string into multiple lines
-            --output=KotB.pdf
-            KEEP.md
-            OUTSIDE.md
-            CAVES-A.md
-            CAVES-B.md
-            CAVES-C.md
-            CAVES-D.md
-            CAVES-E.md
-            CAVES-F.md
-            CAVES-G.md
-            CAVES-H.md
-            CAVES-I.md
-            CAVES-J.md
-            CAVES-K.md
-            ITEMS.md
-            # RUMORS.md
+      - name: Install pandoc
+        uses: pandoc/actions/setup@v1
+
+      - name: Run pandoc
+        run: pandoc --version
+
+      - name: compile with pandoc
+        run: |
+          pandoc --output=KotB.pdf \
+          KEEP.md \
+          OUTSIDE.md \
+          CAVES-A.md \
+          CAVES-B.md \
+          CAVES-C.md \
+          CAVES-D.md \
+          CAVES-E.md \
+          CAVES-F.md \
+          CAVES-G.md \
+          CAVES-H.md \
+          CAVES-I.md \
+          CAVES-J.md \
+          CAVES-K.md \
+          ITEMS.md
           
       - run: find .
 

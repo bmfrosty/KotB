@@ -1,4 +1,4 @@
-### Adventures Outside the Keep
+## Adventures Outside the Keep
 
 * Just to the west (off the map) is the Villag of Hirot.
 * The Caves if the Unknown are hidden within the forest to the west of the Caves of Chaos.
@@ -17,6 +17,8 @@
 * Two giant spiders have spun their webs amongst the trees. 
 * Under a pile of leaves, there is a skeleton of a victim (a hapless elf). 
 * On the body is a Magickal Conduit Amulet.
+
+\pagebreak
 
 #### The Raider Camp
 * There are 12 raiders camped here. The camp is close enough to spy on the Keep

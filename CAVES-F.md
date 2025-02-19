@@ -18,6 +18,9 @@
     * Prisoner 4 - the wife of prisoner 1.
     * Prisoner 5 - a crazed gnoll who will try and get a weapon and attack hisrescuers if freed.
     * Prisoner 6 - a man-at-arms like prisoner 3.
+
+\pagebreak
+
 25. Common Chamber:
     * Meal and meeting place of the tribe.
     * 9 adult hobgoblins and 9 young (who will not fight)
@@ -40,4 +43,5 @@
 31. Guard Room:
     * 4 hobgoblins.
     * They are alert to danger and will pass word to areas 29, 30, and 27 as required.
+
 \pagebreak

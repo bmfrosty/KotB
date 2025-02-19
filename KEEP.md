@@ -24,6 +24,8 @@ simply retire early, ending the revel, and they will never be aided or invited b
 steal or are threatening, the group will be attacked and killed immediately (if this can be
 managed, of course).
 
+\pagebreak
+
 #### Areas of the Keep
 
 1. Main Gate:
@@ -50,8 +52,10 @@ managed, of course).
     * Living quarters are on the second story.
     * The third floor is a storage area.
     * The forth floor quarters 12 men-at-arms.
-7. Private Apartments:
 
+\pagebreak
+
+7. Private Apartments:
     * Special quarters for well-to-do families, rich merchants, guild masters, and the like.
     * There are 5 apartments. The 2 largest currently house a jewel merchant and a priest.
     * a. Jewel Merchant:
@@ -71,6 +75,9 @@ managed, of course).
 11. Loan Bank:
     * Money and gems can be exchanged for a 10% fee.
     * Personal wealth can be stored here for free if it is at least 1 month, otherwise, there is a 10% fee.
+
+\pagebreak
+
 12. Watch Tower:
     * 12 men-at-arms.
     * Captain of the Watch is here and his quarters are on the first floor

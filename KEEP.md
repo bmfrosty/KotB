@@ -1,21 +1,19 @@
 ## The Keep
 
+![The Keep](keep-on-the-borderlands.jpg)
+
 #### Background
 
-\begin{multicols}{2}
 The Realm of mankind is narrow and constricted. Always the forces of Chaos press upon its borders, seeking to enslave its populace, rape its riches, and steal its treasures. If it were not for a stout few, many in the Realm would indeed fall prey to the evil which surrounds them. Yet, there are always certain exceptional and brave members of humanity, as well as similar individuals among its allies - dwarves, elves, and halflings - who rise above the common level and join battle to stave off the darkness which would other- wise overwhelm the land. Bold adventurers from the Realm set off for the Borderlands to seek their fortune. It is these adventurers who, provided they survive the challenge, carry the battle to the
 enemy.
-\end{multicols}
+
 #### RR Notes About the Keep
-\begin{multicols}{2}
 
 Entrance to the Inner Bailey can be gained if the adventurers perform a heroic act in behalf of the Keep, if they bring back an exceptional trophy or valuable prisoners, or if they contribute a valuable magic item or 1,000 or more gold pieces to the place. They will be invited to a feast and revel, and then closely watched and carefully questioned. If the Castellan’ likes the looks of the group, and his assistants agree, he will ask them to perform a special mission (suitable to their ability, but difficult - use the area map or the Caves Chaos to find a suitable goal). On the other hand, if they are rude or behave badly, he will simply retire early, ending the revel, and they will never be aided or invited back. If they try to steal or are threatening, the group will be attacked and killed immediately (if this can be managed, of course).
-\end{multicols}
 
 \pagebreak
 
 #### Areas of the Keep
-\begin{multicols}{2}
 
 1. Main Gate:
     * Approaching the keep, there are corpses hanging from nooses with signs stating “This is what happens to thieves, murderers, and rapists.”
@@ -41,11 +39,8 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * Living quarters are on the second story.
     * The third floor is a storage area.
     * The forth floor quarters 12 men-at-arms.
-\end{multicols}
 
 \pagebreak
-
-\begin{multicols}{2}
 
 7. Private Apartments:
     * Special quarters for well-to-do families, rich merchants, guild masters, and the like.
@@ -67,11 +62,8 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
 11. Loan Bank:
     * Money and gems can be exchanged for a 10% fee.
     * Personal wealth can be stored here for free if it is at least 1 month, otherwise, there is a 10% fee.
-\end{multicols}
 
 \pagebreak
-
-\begin{multicols}{2}
 
 12. Watch Tower:
     * 12 men-at-arms.
@@ -91,11 +83,8 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * When members of any guild travel to the area, they are offered the hospitality of this two-story building.
     * Any trader who passes through must pay guild dues of 5% of the value of their merchandise. In return, they gets the protection of the Guild House.
     * The Guild Master is very influential an his favor or dislike will be reflected in th treatment of persons by fortress personnel.
-\end{multicols}
 
 \pagebreak
-
-\begin{multicols}{2}
 
 17. Chapel:
     * The spiritual center of the Keep.
@@ -115,11 +104,8 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * Entire area is grass-covered.
     * Troops dill here.
     * 6-12 soldiers are always present in weapons practice.
-\end{multicols}
 
 \pagebreak
-
-\begin{multicols}{2}
 
 22. Cavalry Stables:
     * 30 war horses are stabled here.
@@ -141,6 +127,5 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * The private room of the keep’s commander.
     * Lavishly furnished.
     * The Castellan - Strikes: 5, To-Hit 4; crits on 5+; has 2 potions of healing on him.
-\end{multicols}
 
 \pagebreak

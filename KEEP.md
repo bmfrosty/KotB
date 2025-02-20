@@ -1,4 +1,4 @@
-![The Keep](keep-on-the-borderlands.webp)
+![The Keep](keep-on-the-borderlands.jpg)
 \pagebreak
 
 ## The Keep
@@ -11,8 +11,6 @@ enemy.
 #### RR Notes About the Keep
 
 Entrance to the Inner Bailey can be gained if the adventurers perform a heroic act in behalf of the Keep, if they bring back an exceptional trophy or valuable prisoners, or if they contribute a valuable magic item or 1,000 or more gold pieces to the place. They will be invited to a feast and revel, and then closely watched and carefully questioned. If the Castellan’ likes the looks of the group, and his assistants agree, he will ask them to perform a special mission (suitable to their ability, but difficult - use the area map or the Caves Chaos to find a suitable goal). On the other hand, if they are rude or behave badly, he will simply retire early, ending the revel, and they will never be aided or invited back. If they try to steal or are threatening, the group will be attacked and killed immediately (if this can be managed, of course).
-
-\pagebreak
 
 #### Areas of the Keep
 
@@ -42,6 +40,10 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * The forth floor quarters 12 men-at-arms.
 
 \pagebreak
+![The Keep](keep-on-the-borderlands.jpg)
+\pagebreak
+
+#### Areas of the Keep
 
 7. Private Apartments:
     * Special quarters for well-to-do families, rich merchants, guild masters, and the like.
@@ -63,9 +65,6 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
 11. Loan Bank:
     * Money and gems can be exchanged for a 10% fee.
     * Personal wealth can be stored here for free if it is at least 1 month, otherwise, there is a 10% fee.
-
-\pagebreak
-
 12. Watch Tower:
     * 12 men-at-arms.
     * Captain of the Watch is here and his quarters are on the first floor
@@ -86,6 +85,8 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * The Guild Master is very influential an his favor or dislike will be reflected in th treatment of persons by fortress personnel.
 
 \pagebreak
+![The Keep](keep-on-the-borderlands.jpg)
+\pagebreak
 
 17. Chapel:
     * The spiritual center of the Keep.
@@ -105,9 +106,6 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
     * Entire area is grass-covered.
     * Troops dill here.
     * 6-12 soldiers are always present in weapons practice.
-
-\pagebreak
-
 22. Cavalry Stables:
     * 30 war horses are stabled here.
 23. Great Tower:

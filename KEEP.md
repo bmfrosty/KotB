@@ -1,4 +1,4 @@
-![The Keep](keep-on-the-borderlands.jpg)
+![The Keep](keep-on-the-borderlands.webp)
 \pagebreak
 
 ## The Keep

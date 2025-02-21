@@ -6,3 +6,7 @@ Compiled book for running Keep on the Borderlands.  Cobbled together from the or
 This is meant to be in the style of OSE - similar to Incandescent Grottoes.  Should work similarly well with conversion to any other OSR system like Shadowdark.
 
 This is not meant to replace the original module.  It can be purchased from [DriveThruRPG](https://www.drivethrurpg.com/en/product/17158/b2-the-keep-on-the-borderlands-basic?affiliate_id=757342) (affiliate link).  This is meant as a companion to simplify running at the table.
+
+TODO: Replace the rumor table with something that's less directly derived from TSR work
+TODO: Migrate to pure LaTeX completely.  Use Pandoc to convert sections of markdown to LaTeX
+TODO: Host image blobs elsewhere and pull down for compilation

@@ -43,7 +43,7 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
 ![The Keep](keep-on-the-borderlands.jpg)
 \pagebreak
 
-#### Areas of the Keep
+#### Areas of the Keep (2)
 
 7. Private Apartments:
     * Special quarters for well-to-do families, rich merchants, guild masters, and the like.
@@ -87,6 +87,8 @@ Entrance to the Inner Bailey can be gained if the adventurers perform a heroic a
 \pagebreak
 ![The Keep](keep-on-the-borderlands.jpg)
 \pagebreak
+
+#### Areas of the Keep (3)
 
 17. Chapel:
     * The spiritual center of the Keep.

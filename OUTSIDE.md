@@ -18,8 +18,6 @@
 * Under a pile of leaves, there is a skeleton of a victim (a hapless elf). 
 * On the body is a Magickal Conduit Amulet.
 
-\pagebreak
-
 #### The Raider Camp
 * There are 12 raiders camped here. The camp is close enough to spy on the Keep
 * but far enough away to avoid patrols.

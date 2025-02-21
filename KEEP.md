@@ -12,6 +12,10 @@ enemy.
 
 Entrance to the Inner Bailey can be gained if the adventurers perform a heroic act in behalf of the Keep, if they bring back an exceptional trophy or valuable prisoners, or if they contribute a valuable magic item or 1,000 or more gold pieces to the place. They will be invited to a feast and revel, and then closely watched and carefully questioned. If the Castellan’ likes the looks of the group, and his assistants agree, he will ask them to perform a special mission (suitable to their ability, but difficult - use the area map or the Caves Chaos to find a suitable goal). On the other hand, if they are rude or behave badly, he will simply retire early, ending the revel, and they will never be aided or invited back. If they try to steal or are threatening, the group will be attacked and killed immediately (if this can be managed, of course).
 
+#### RUMORS
+
+See original module (page 7) for the Rumors table
+
 #### Areas of the Keep
 
 1. Main Gate:

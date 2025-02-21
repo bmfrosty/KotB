@@ -24,7 +24,6 @@ jobs:
           pandoc --verbose --output=KotB.pdf \
           CONFIG.md \
           KEEP.md \
-          OUTSIDE-MAP.md \
           OUTSIDE.md \
           CAVES.md \
           ITEMS.md
